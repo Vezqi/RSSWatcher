@@ -4,4 +4,4 @@ RssWatcher is a package used for monitoring changes to RSS feeds. An event is fi
 
 # Examples
 
-An example can be found in [Example.cs](https://github.com/Vezqi/RSSWatcher).
+An example can be found in [Example.cs](https://github.com/Vezqi/RSSWatcher/blob/master/RSSWatcher/Example.cs).
